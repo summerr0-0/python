@@ -11,3 +11,4 @@ sns.scatterplot(data = mpg, x = 'displ', y = 'hwy')
 sns.scatterplot(data = mpg, x = 'displ', y = 'hwy') \
    .set(xlim = [3, 6], ylim = [10, 30])
 ```
+.
